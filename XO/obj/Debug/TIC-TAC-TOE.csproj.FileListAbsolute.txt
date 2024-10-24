@@ -1,0 +1,30 @@
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\bin\Debug\Alien Invaders.exe.config
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\bin\Debug\Alien Invaders.exe
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\bin\Debug\Alien Invaders.pdb
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\TicTacToe.Form1.resources
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\Alien_Invaders.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\Alien Invaders.exe
+D:\work\asp.net C#\Csharp-projects-main\TIC TAC TOE\obj\Debug\Alien Invaders.pdb
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\bin\Debug\Alien Invaders.exe.config
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\bin\Debug\Alien Invaders.exe
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\bin\Debug\Alien Invaders.pdb
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csproj.AssemblyReference.cache
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\TicTacToe.Form1.resources
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.cache
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\Alien Invaders.exe
+C:\Users\daria\OneDrive\Рабочий стол\TIC_TAC_TOE_Game_In_C_With_Source_Code\TIC TAC TOE\obj\Debug\Alien Invaders.pdb
+C:\Users\daria\OneDrive\Рабочий стол\XO\bin\Debug\Alien Invaders.exe.config
+C:\Users\daria\OneDrive\Рабочий стол\XO\bin\Debug\Alien Invaders.exe
+C:\Users\daria\OneDrive\Рабочий стол\XO\bin\Debug\Alien Invaders.pdb
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\TIC-TAC-TOE.csproj.AssemblyReference.cache
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\TicTacToe.Form1.resources
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\TIC-TAC-TOE.csproj.GenerateResource.cache
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\Alien Invaders.exe
+C:\Users\daria\OneDrive\Рабочий стол\XO\obj\Debug\Alien Invaders.pdb
